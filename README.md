@@ -1,6 +1,6 @@
 # learning_bloc
 
-A new Flutter project.
+this is a project to learn and practice BloC state management 
 
 ## Getting Started
 
